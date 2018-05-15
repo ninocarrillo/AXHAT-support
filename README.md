@@ -2,4 +2,4 @@
 
 Contains the following files:
 
-* reboot-AXHAT.bin: Transfer reboot-AXHAT.bin to AXHAT via a serial terminal to force a reboot.
+* exit_kiss.bin: Transfer TNC via a serial terminal to exit KISS mode.
